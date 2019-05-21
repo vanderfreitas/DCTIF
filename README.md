@@ -10,14 +10,13 @@ Collaborators: Vander L. S. Freitas, Juliana C. Lacerda and Elbert E. N. Macau.
 
 
 Dependencies (tested on python 2.7):
-
-⋅⋅* matplotlib
-⋅⋅* igraph
-⋅⋅* networkx
-
+* matplotlib
+* igraph
+* networkx
 
 
-How to run all the simulations from our paper:
+
+In order to run all the simulations from our paper, open a terminal and type the following:
 
 ```
 bash reproduce_all_results.sh
@@ -26,4 +25,4 @@ bash reproduce_all_results.sh
 
 If you use this code, please cite the paper:
 
-**Freitas, V. L. S., Lacerda, J. C., Macau, E. E. N. Complex Networks approach for dynamical characterization of nonlinear systems. Submitted to: International Journal of Bifurcation and Chaos.**
+**Freitas, V. L. S., Lacerda, J. C., Macau, E. E. N. Complex Networks approach for dynamical characterization of nonlinear systems. Submitted to: International Journal of Bifurcation and Chaos. 2019 **
